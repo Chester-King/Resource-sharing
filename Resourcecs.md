@@ -13,3 +13,7 @@ Community accumulated links to resources to learn new technologies. Create a new
 ## Version Control
 
 - [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+
+## Photoshop
+
+- [Learn Photoshop](https://www.youtube.com/watch?v=KAmSB5MQxOo)
