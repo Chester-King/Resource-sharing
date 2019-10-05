@@ -17,3 +17,7 @@ Community accumulated links to resources to learn new technologies. Create a new
 ## Photoshop
 
 - [Learn Photoshop](https://www.youtube.com/watch?v=KAmSB5MQxOo)
+
+## Adobe XD
+
+- [Learn APP UI](https://www.youtube.com/watch?v=68w2VwalD5w)
