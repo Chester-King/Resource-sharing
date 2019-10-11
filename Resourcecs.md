@@ -25,3 +25,7 @@ Community accumulated links to resources to learn new technologies. Create a new
 ## Adobe Illustrator
 
 - [Learn Making Vector](https://www.youtube.com/watch?v=3GzumUieDPY)
+
+## Web Development
+
+- [Web developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
